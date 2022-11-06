@@ -1,6 +1,8 @@
 /*
 # jinggeng组队瓜分
 1 1 1 1 *  jd_jinggeng_showPartition.js, tag=jinggeng组队瓜分, enabled=true
+变量：
+jd_jinggeng_showPartition_activityUrl
 
 服务器无法运行，请使用本地IP
  */
